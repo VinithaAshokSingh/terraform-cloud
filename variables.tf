@@ -1,6 +1,6 @@
 variable filename {
 	type = string
-default = "abc.txt"
+default = "xyz.txt"
 }
 
 variable content {
